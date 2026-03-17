@@ -1,3 +1,7 @@
+### 交付文档请见ProgramDesignDelivery.md
+
+---
+
 # 一、游戏规则
 
 ## 1. 主玩法基础逻辑
