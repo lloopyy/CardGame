@@ -1,0 +1,143 @@
+############################
+# OS generated files
+############################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+############################
+# VS Code
+############################
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+############################
+# Visual Studio
+############################
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+
+############################
+# IntelliSense / Precompiled Headers
+############################
+*.ipch
+*.pch
+
+############################
+# General build outputs
+############################
+build/
+bin/
+obj/
+out/
+dist/
+
+Debug/
+Release/
+Debug.win32/
+Release.win32/
+x64/
+Win32/
+
+############################
+# Compiled / linked binaries
+############################
+*.obj
+*.o
+*.lo
+*.la
+*.al
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.exp
+*.idb
+*.ilk
+*.pdb
+*.app
+
+############################
+# Logs / temp / cache
+############################
+*.log
+*.tmp
+*.temp
+*.cache
+
+############################
+# Archives
+############################
+*.zip
+*.rar
+*.7z
+
+############################
+# CMake
+############################
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+compile_commands.json
+Makefile
+
+############################
+# Android / Gradle
+############################
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+proj.android/.gradle/
+proj.android/local.properties
+proj.android/build/
+proj.android/app/build/
+
+############################
+# iOS / macOS / Xcode
+############################
+DerivedData/
+xcuserdata/
+*.xcuserstate
+proj.ios_mac/build/
+
+############################
+# Linux build output
+############################
+proj.linux/build/
+
+############################
+# Win32 project generated files
+############################
+proj.win32/.vs/
+proj.win32/ipch/
+proj.win32/Debug/
+proj.win32/Release/
+proj.win32/x64/
+proj.win32/Win32/
+
+############################
+# cocos2d generated build output
+############################
+cocos2d/cocos/2d/Debug.win32/
+cocos2d/cocos/2d/Release.win32/
+cocos2d/build/
+cocos2d/bin/
+
+
+*.pptx
+*.mp4
